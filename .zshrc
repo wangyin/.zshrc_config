@@ -127,7 +127,7 @@ alias tnew="tmux new -s"
 alias ta="tmux a -t"
 alias vi="nvim"
 alias seegpu="watch -n 1 nvidia-smi"
-alias callconda="source /mnt/anaconda/bin/activate"
+alias condainit="source /mnt/anaconda/bin/activate"
 alias jl="jupyter-lab --no-browser"
 
 setopt autocd autopushd pushdignoredups
